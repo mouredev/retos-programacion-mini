@@ -20,6 +20,7 @@
 |06|[ANAGRAMAS](./Mini/06_anagram.py)|[▶️](https://www.youtube.com/shorts/fCpBzZFKCow)|[▶️](https://www.instagram.com/p/C8w_nRnNIsF/)|[▶️](https://www.tiktok.com/@mouredev/video/7385587399201459489)
 |07|[TABLAS DE MULTIPLICAR](./Mini/07_multiplication_tables.py)|[▶️](https://youtube.com/shorts/YZZlha89jWg)|[▶️](https://www.instagram.com/p/C892QQhtwLB/)|[▶️](https://www.tiktok.com/@mouredev/video/7387439621505912097)
 |08|[INVERSIÓN DE CADENAS](./Mini/08_reverse_string.py)|[▶️](https://youtube.com/shorts/RlqnMhZ8HqU)|[▶️](https://www.instagram.com/reel/C9NXAuitG_9/)|[▶️](https://www.tiktok.com/@mouredev/video/7389677839332805920)
+|09|[FACTORIAL](./Mini/09_factorial.py)||
 
 ## Más retos de programación
 
