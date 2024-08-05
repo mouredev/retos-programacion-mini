@@ -22,6 +22,7 @@
 |08|[INVERSIÓN DE CADENAS](./Mini/08_reverse_string.py)|[▶️](https://youtube.com/shorts/RlqnMhZ8HqU)|[▶️](https://www.instagram.com/reel/C9NXAuitG_9/)|[▶️](https://www.tiktok.com/@mouredev/video/7389677839332805920)
 |09|[CÁLCULO DE UN FACTORIAL](./Mini/09_factorial.py)|[▶️](https://youtube.com/shorts/Wi7jnXb7iNk)|[▶️](https://www.instagram.com/mouredev/reel/C9m04X6t4EW/)|[▶️](https://www.tiktok.com/@mouredev/video/7393372720324431136)
 |10|[LISTA POKÉMON](./Mini/10_pokemon_list.py)|[▶️](https://youtube.com/shorts/2nM2-M4urb0)|[▶️](https://www.instagram.com/reel/C95Cle5NH1D/)|[▶️](https://www.tiktok.com/@mouredev/video/7395970238950509857)
+|11|[MEDIA](./Mini/11_mean.py)|[▶️](https://youtube.com/shorts/UUSlIQiNGGw)|[▶️](https://www.instagram.com/p/C-LE_rzNnjc)|[▶️](https://www.tiktok.com/@mouredev/video/7398569872516582689)
 
 ## Más retos de programación
 
